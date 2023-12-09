@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai-fire/TEST_fbx_polyhaven.git
+	branch = main
+	commit = 5fce389891d415c5fa1455ce0f4f577d9df6a661
+	parent = 7665fd4e8d2414b2cc7013345a0bb7cfed3650a0
+	method = merge
+	cmdver = 0.4.6
