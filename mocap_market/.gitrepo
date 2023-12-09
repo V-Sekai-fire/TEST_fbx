@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai-fire/TEST_fbx_mocap_market.git
+	branch = main
+	commit = 75dff4162ac159690cc796ada3ad6eb592adbc97
+	parent = a98d24a8aea39c8e591c14df0f4b018e325c0aa1
+	method = merge
+	cmdver = 0.4.6
