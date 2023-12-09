@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/ingydotnet/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/V-Sekai-fire/TEST_fbx_quaternius.git
+	branch = main
+	commit = d98696740ec9cd3d8996eb6b27985f2c584a528f
+	parent = a04e5b1b2a0ecb10dd852c07c55b7101ad785f50
+	method = merge
+	cmdver = 0.4.6
